@@ -7,9 +7,9 @@ Pulpでのソルバーの変更方法については[こちら](http://inarizuuu
 
 # 最適解の可視化  
 定式して得られた答えからnetworkxを利用して経路を可視化したもの.  
-## $N=10$
+## N=10
 ![N10](/Picture/N10.png)
-## $N=20$
+## N=20
 ![N20](/Picture/N20.png)
-## $N=30$
+## N=30
 ![N30](/Picture/N20.png)
