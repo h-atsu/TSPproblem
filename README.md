@@ -11,5 +11,3 @@ Pulpでのソルバーの変更方法については[こちら](http://inarizuuu
 ![N10](/Picture/N10.png)
 ## N=20
 ![N20](/Picture/N20.png)
-## N=30
-![N30](/Picture/N20.png)
